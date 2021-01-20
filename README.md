@@ -6,7 +6,7 @@ Click [here](https://public.tableau.com/profile/nathan7605#!/vizhome/NYCCitibike
 
 The objective of this exercise is to create a dashboard for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program.
 
-![Citi-Bikes](Saved Pictures\citi-bike-station-bikes.jpg)
+![Citi-Bikes](Saved Pictures/citi-bike-station-bikes.jpg)
 
 
 The data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
