@@ -13,4 +13,4 @@ The data is collected, organized, and made public on the [Citi Bike Data](https:
 
 
 # Here are Some of the findings:
-Analyisis performed on 2019-2020 New York City Citibike program for users over the age of 55.  With Tableau Public limitations in mind, I used Pandas to sort and clean the data.
+Analysis performed on 2019-2020 New York City Citibike program for users over the age of 55.  With Tableau Public limitations in mind, I used Pandas to sort and clean the data.
